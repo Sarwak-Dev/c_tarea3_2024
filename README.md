@@ -33,7 +33,7 @@ typedef struct {
     int square[3][3];  // Matriz 3x3 que representa el tablero
     int x;  // Posición x del espacio vacío
     int y;  // Posición y del espacio vacío
-    int nActions;
+    int nActions; // Numero de movimientos realizados
 } State;
 
 typedef struct Node {
@@ -72,7 +72,7 @@ typedef struct Node {
 <hr>
 
 ### Observaciones
-- Caso 3 no funciona ya que se hizo solitario.
+- Caso 3 no funciona ya que se hizo en solitario.
 - Para cambiar el estado inicial se cambia en el main.
 - Cuando el programa supera las 15.000.000 iteraciones se detiene automaticamente.
   
