@@ -74,7 +74,7 @@ typedef struct Node {
 ### Observaciones
 - Caso 3 no funciona ya que se hizo solitario.
 - Para cambiar el estado inicial se cambia en el main.
-- 
+- Cuando el programa supera las 15.000.000 iteraciones se detiene automaticamente.
   
 <br>
 
