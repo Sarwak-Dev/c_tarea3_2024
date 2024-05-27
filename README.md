@@ -1,4 +1,4 @@
-# Codigo buscar Películas por distintos Criterios
+# Codigo buscar distintas soluciones 8-puzzle
 
 <br>
 <br>
